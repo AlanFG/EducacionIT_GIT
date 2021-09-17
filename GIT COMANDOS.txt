@@ -21,4 +21,7 @@ volver al ultimo cambio subido con el commit (restaurar)
 git restore "nombre de archivo"
 git restore . (para resturar todo)
 
+agregar pagina de git donde voy a estar dejando mis repositorios
+git remote -v
 
+git remote add origin https://github.com/AlanFG/EducacionIT_GIT
