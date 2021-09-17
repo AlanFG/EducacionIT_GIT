@@ -1,0 +1,24 @@
+git init
+
+comando configurar usuario y clave en repositorio
+git config --list --show-origin
+
+git config --global user.name "agasparoli"
+git config --global user.email "alan.gaspa@hotmail.com.ar"
+
+Subir cambios hechos
+git status
+
+git add .
+
+git commit -m "pepe"
+
+Historial de commits hechos
+git log
+git log --oneline
+
+volver al ultimo cambio subido con el commit (restaurar)
+git restore "nombre de archivo"
+git restore . (para resturar todo)
+
+
