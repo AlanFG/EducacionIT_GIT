@@ -25,3 +25,4 @@ agregar pagina de git donde voy a estar dejando mis repositorios
 git remote -v
 
 git remote add origin https://github.com/AlanFG/EducacionIT_GIT
+
