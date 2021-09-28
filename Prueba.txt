@@ -2,4 +2,8 @@ asdasd
 
 2do cmoit
 
+<<<<<<< HEAD
 este es el cambio del 2do usuario
+=======
+3er cambio 1er usuario
+>>>>>>> dc5419150beb3453606a1b553a74b2993939bbfe
